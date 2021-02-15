@@ -1,0 +1,28 @@
+body {
+    font: 16px/28px;
+}
+h1 {
+    font-weight: 400;
+    text-align: center;
+}
+.gray {
+    color: #888888;
+    font-size: 12px;
+    text-align: center;
+}
+.a {
+    text-decoration: none;
+}
+.search {
+    color: #666666;
+}
+.btn {
+    font-weight: 700;
+}
+.pic {
+    text-align: center;
+}
+.gray2 {
+    color: #888888;
+    font-size: 12px;
+}
